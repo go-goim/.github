@@ -1,3 +1,3 @@
 # Hi, this is us!
 
-<img width="732" alt="logo_without_bg" src="https://user-images.githubusercontent.com/21994267/171121963-e65dddb0-8b78-4099-91aa-dc7971ee4692.png">
+<img width="732" alt="GoIM" src="https://user-images.githubusercontent.com/21994267/171377813-c3a14372-243e-4f5b-bd2b-62ab62f58dd1.png">
